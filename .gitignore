@@ -1,0 +1,5 @@
+*
+!.gitignore
+!/wwwroot/
+!/Views/
+!.README.md
