@@ -1,5 +1,5 @@
 *
 !.gitignore
-!/wwwroot/
-!/Views/
+!wwwroot/
+!Views/
 !.README.md
