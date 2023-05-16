@@ -1,0 +1,17 @@
+﻿/*  
+---------------------------------------------------
+Listings - Large
+---------------------------------------------------  
+*/
+
+
+/* Labels */
+.item:not(.item_text-above) .image ~ .labels {
+    top: 0;
+}
+.item.item_text-above .image ~ .labels {
+    bottom: 0;
+}
+.item.item_text-left .image ~ .labels {
+    right: 2px;
+}
